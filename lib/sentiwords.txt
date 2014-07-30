@@ -5404,7 +5404,8 @@
 0.291666666667	accidentally
 0.28125	thoughtfulness
 0.28125	spirited
-0.28125	powerful
+0.28125	po.werful
+0.2
 0.28125	golden
 0.28125	genius
 0.28125	functional
@@ -6322,6 +6323,7 @@
 0.25	pragmatical
 0.25	pragmatic
 0.25	practice
+0.25  powerful
 0.25	powerfully
 0.25	potpourri
 0.25	potluck
